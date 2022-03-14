@@ -1,0 +1,11 @@
+.circle-icon {
+    background: rgba(241, 247, 247, 0.8);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    padding: 25px
+}
+
+.icon-orange {
+    color: orange;
+}
